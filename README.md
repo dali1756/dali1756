@@ -1,4 +1,5 @@
 ## Hi I'm Jeter 🙃
+### 💻 I'm now a Software Engineer
 
 <!--
 **dali1756/dali1756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
