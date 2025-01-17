@@ -1,4 +1,4 @@
-## Hi, I'm Jeter 🙃
+## Hi, I'm Jeter 🫠
 <p>I'm a software engineer and a runner with a passion for what I don't know.</p>
 
 <!--
