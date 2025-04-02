@@ -1,5 +1,5 @@
 ## Hi, I'm Jeter 🫠
-<p>I'm a software engineer and a runner with a passion for what I don't know.</p>
+<p>I'm a software engineer🧑‍💻 and a runner🏃‍➡️, and I'm interested in anything unknown.🔥</p>
 
 <!--
 **dali1756/dali1756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
